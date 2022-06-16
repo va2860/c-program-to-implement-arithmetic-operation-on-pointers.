@@ -1,0 +1,1 @@
+# c-program-to-implement-arithmetic-operation-on-pointers.
